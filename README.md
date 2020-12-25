@@ -3,5 +3,7 @@
 
 เราชื่อ ไมโคร
 นี่เจ้าของเรา
+
 #สวัสดีเราชื่อปาย 
+![image](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/95462851_2310564875913630_7179586985487499264_n.jpg?_nc_cat=101&ccb=2&_nc_sid=730e14&_nc_ohc=sbJQ9Zb0VeMAX9g1-97&_nc_ht=scontent.fbkk10-1.fna&oh=1a6988237cf6a0be652475e03de0d9c8&oe=600C9CB6)
 
